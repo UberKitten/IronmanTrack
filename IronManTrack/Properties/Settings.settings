@@ -14,8 +14,8 @@
     <Setting Name="TokenSecret" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
-    <Setting Name="TrackingPage" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://tracking.ironmanlive.com/newathlete.php?rid=1143240022&amp;race=lakeplacid&amp;bib=2855&amp;v=3.0</Value>
+    <Setting Name="TrackingPage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://track.ironman.com/newathlete.php?rid=1143240146&amp;race=wisconsin&amp;bib=2836&amp;v=3.0&amp;beta=&amp;1410057000</Value>
     </Setting>
   </Settings>
 </SettingsFile>
